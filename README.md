@@ -2,7 +2,7 @@
 Students subject marks management system 
 
 
-##Features of our Student Mark Board Application Project
+## Features of our Student Mark Board Application Project
 
 
 • It is a simple one interface java application.
@@ -18,7 +18,7 @@ mark collection of students.
 • We have another feature we can get final summary report as well.
 
 
-##Special things in our application
+## Special things in our application
 
 
 
