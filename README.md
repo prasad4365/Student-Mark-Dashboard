@@ -45,5 +45,5 @@ box confirmation message will be given by app with have yes ,no options.
 
 ## Used Technologies
 
- [Java](#java)
- [Netbeans](#Netbeans)
+ - [Java](#https://docs.oracle.com/en/java/)
+ - [Netbeans](#https://netbeans.apache.org/front/main/index.html)
