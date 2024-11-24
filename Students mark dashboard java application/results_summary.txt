@@ -1,0 +1,13 @@
+1 .  1223232  -  43.0
+2 .  34335  -  65.0
+**************************
+
+ Number Of Students :- 2
+ Average Mark Of Students :- 54.0
+ Maxximum Mark Of Students : 65.0
+ Minimum Mark Of Students :- 43.0
+
+**************************
+
+   1223232 - 43.0 (W)
+   34335 - 65.0 (C)
