@@ -42,3 +42,8 @@ will be given by app.
 box confirmation message will be given by app with have yes ,no options.
 
 • Application have included tool tips for the buttons, colored button and user familiar interface.
+
+## Used Technologies
+
+[Java]#java
+[Netbeans]#Netbeans
