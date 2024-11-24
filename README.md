@@ -4,6 +4,12 @@ Students subject marks management system
 
 ![Screenshot (275)](https://github.com/user-attachments/assets/89c81ed4-bccf-46ed-82cb-1b7f7d7490e1)
 
+![Screenshot (276)](https://github.com/user-attachments/assets/a2e578e7-3fde-4759-b76a-290ca555938e)
+![Screenshot (279)](https://github.com/user-attachments/assets/2c8d638a-4ffa-4f0e-b41f-4458cd4bfa6a)
+![Screenshot (278)](https://github.com/user-attachments/assets/9b959fed-80a9-4238-aaa1-8e56dbf526d7)
+![Screenshot (277)](https://github.com/user-attachments/assets/2e8b989e-3e5a-4402-8ea8-05b1dbfb5f45)
+
+
 
 
 
