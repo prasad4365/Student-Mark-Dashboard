@@ -1,5 +1,7 @@
 # Student-Mark-Dashboard
 Students subject marks management system 
+![Screenshot (274)](https://github.com/user-attachments/assets/88852d39-ca95-4340-928e-d59729cfb5b3)
+
 
 
 ## Features of our Student Mark Board Application Project
